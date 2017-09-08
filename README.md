@@ -1,5 +1,4 @@
 # hello-world
-Repositorio de practica
 
 Hola
 
